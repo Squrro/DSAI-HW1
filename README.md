@@ -1,2 +1,3 @@
 # DSAI-HW-2021
-Please clearly write your idea.
+To Run:
+python app.py --training daily_data.csv --output submission.csv
